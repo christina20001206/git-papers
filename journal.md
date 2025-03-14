@@ -1,6 +1,7 @@
 # This is my super cool paper
 Written by: ME !
-My affiliation McGill University
+And my super cool friends !
+My affiliation: McGill University
 
 ## Introduction
 
